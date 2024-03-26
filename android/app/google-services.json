@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948265785384",
+    "project_id": "juhanform",
+    "storage_bucket": "juhanform.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948265785384:android:d38bf034c978c9fd7e7d1d",
+        "android_client_info": {
+          "package_name": "com.example.juhanapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUk_Pw4rUAny2P2T98TA6L6bS_p69qiPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
